@@ -16,6 +16,7 @@ My name is Korrawich Khosripetch
 
 ## :chart_with_upwards_trend:	Github Stats
 
+![knwch's github stats](https://github-readme-stats.vercel.app/api?username=knwch&show_icons=true&count_private=true&theme=vue&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&theme=vue&hide=html,css)
 
 <!--
