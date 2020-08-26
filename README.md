@@ -2,8 +2,11 @@
 
 #### :wrench: Technologies & Tools
 
+<!-- apple -->
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+<!-- vscode -->
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+<!-- javascript -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -13,7 +16,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=2bbc8a)
 
-#### :bar_chart: Statistic
+#### :bar_chart: Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&hide=html,css)
 
