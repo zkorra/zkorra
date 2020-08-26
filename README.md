@@ -1,7 +1,7 @@
 ## Hello everyone 👋
 My name's Korrawich Khosripetch
 
-## :wrench: Technologies & Tools
+## :wrench: Technologies
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)<!-- apple -->
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)<!-- vscode -->
@@ -14,7 +14,7 @@ My name's Korrawich Khosripetch
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)<!-- java -->
 ![](https://img.shields.io/badge/Tools-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=2bbc8a)<!-- mapbox -->
 
-## :bar_chart: Github Stats
+## :chart_with_upwards_trend:	Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&hide=html,css)
 
