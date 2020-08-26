@@ -1,4 +1,4 @@
-### Hi, I'm Korrawich 👋
+### Hi, I'm Korrawich Khosripetch 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
