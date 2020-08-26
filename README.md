@@ -3,16 +3,16 @@ My name is Korrawich Khosripetch
 
 ## :wrench: Technologies
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)<!-- apple -->
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)<!-- vscode -->
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)<!-- javascript -->
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)<!-- react -->
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)<!-- reactnative-->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)<!-- python -->
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)<!-- firebase -->
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)<!-- mongodb -->
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)<!-- java -->
-![](https://img.shields.io/badge/Tools-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=2bbc8a)<!-- mapbox -->
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=42b883)<!-- apple -->
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=42b883)<!-- vscode -->
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=42b883)<!-- javascript -->
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=42b883)<!-- react -->
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=42b883)<!-- reactnative-->
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=42b883)<!-- python -->
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=42b883)<!-- firebase -->
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=42b883)<!-- mongodb -->
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=42b883)<!-- java -->
+![](https://img.shields.io/badge/Tools-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=42b883)<!-- mapbox -->
 
 ## :chart_with_upwards_trend:	Github Stats
 
