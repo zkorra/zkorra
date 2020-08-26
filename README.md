@@ -1,4 +1,4 @@
-## Hello everyone 👋
+## Hello everyone! 👋
 My name's Korrawich Khosripetch
 
 ## :wrench: Technologies
