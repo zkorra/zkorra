@@ -1,5 +1,5 @@
-## Hello everyone! 👋
-My name's Korrawich Khosripetch
+## Hello everyone 👋
+My name is Korrawich Khosripetch
 
 ## :wrench: Technologies
 
@@ -16,7 +16,7 @@ My name's Korrawich Khosripetch
 
 ## :chart_with_upwards_trend:	Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&theme=vue&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&theme=buefy&hide=html,css)
 
 <!--
 **knwch/knwch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
