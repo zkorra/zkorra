@@ -9,6 +9,7 @@ My name is Korrawich Khosripetch
 
 ![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=42b883&labelColor=555555)
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=42b883&labelColor=555555)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=42b883&labelColor=555555)
 ![](https://img.shields.io/badge/-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=42b883&labelColor=555555)
 
 ## 📈 Github Stats
