@@ -1,12 +1,6 @@
 ## Hello everyone 👋
 My name is Korrawich Khosripetch
 
-## :wrench: Languages i use
-
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=42b883)<!-- javascript -->
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=42b883)<!-- java -->
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=42b883)<!-- python -->
-
 ## :wrench: Technologies
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=42b883)<!-- apple -->
