@@ -1,4 +1,4 @@
-## Hello everyone 👋
+## Hello there 👋
 My name is Korrawich Khosripetch
 
 ## 🔧 Technologies & Tools
