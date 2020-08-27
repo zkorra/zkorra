@@ -7,9 +7,9 @@ My name is Korrawich Khosripetch
 - Software development using **Java**
 - Machine learning using **Python, Scikit-learn**
 
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=42b883)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=42b883)
-![](https://img.shields.io/badge/Lib-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=42b883)
+![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=42b883&labelColor=555555)
+![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=42b883&labelColor=555555)
+![](https://img.shields.io/badge/-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=42b883&labelColor=555555)
 
 ## 📈 Github Stats
 
