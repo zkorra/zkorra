@@ -3,9 +3,9 @@ My name is Korrawich Khosripetch
 
 ## :wrench: Languages i use
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=42b883)<!-- javascript -->
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=42b883)<!-- python -->
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=42b883)<!-- java -->
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=42b883)<!-- javascript -->
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=42b883)<!-- java -->
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=42b883)<!-- python -->
 
 ## :wrench: Technologies
 
