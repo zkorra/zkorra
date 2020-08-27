@@ -19,7 +19,6 @@ My name is Korrawich Khosripetch
 ## ☕ Get in touch
 - LinkedIn - [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/)
 
-
 <!--
 **knwch/knwch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
