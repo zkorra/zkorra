@@ -2,7 +2,7 @@
 My name is Korrawich Khosripetch
 
 ## 🔧 Technologies & Tools
-- Front-end development using **React**
+- Front-end development using **React/Redux**
 - Mobile application development using **React Native**
 - Software development using **Java**
 - Machine learning using **Python, Scikit-learn**
