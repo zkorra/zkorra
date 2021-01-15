@@ -16,7 +16,7 @@ My name is Korrawich Khosripetch
 
 ![knwch's github stats](https://github-readme-stats.vercel.app/api?username=knwch&count_private=true&show_icons=true&theme=vue&hide=stars,issues&hide_title=true)
 
-![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact)]
+![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact)
 
 
 ## ☕ Get in touch
