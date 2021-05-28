@@ -3,9 +3,8 @@ My name is Korrawich Khosripetch
 
 ## 🔧 Technologies & Tools
 - Front-end development using **React/Redux, Angular/NGXS**
-- Back-end development using **Nest, Flask**
+- Back-end development using **NestJS, Flask**
 - Mobile application development using **React Native**
-- Machine learning using **Python, Scikit-learn**
 
 ![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=42b883&labelColor=555555)
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=42b883&labelColor=555555)
