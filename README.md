@@ -13,9 +13,9 @@ My name is Korrawich Khosripetch
 
 ## 📈 Github Stats
 
-![knwch's github stats](https://github-readme-stats.vercel.app/api?username=knwch&count_private=true&show_icons=true&theme=vue&hide=stars,issues&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&theme=buefy&border_radius=28&bg_color=100,ffffff,fcfaff)
 
-![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=6&custom_title=Coding%20Stats,%20last%207%20days)
+![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=4&custom_title=Coding%20Stats,%20last%207%20days&theme=vue&border_radius=28&bg_color=40,ffffff,fafffd)
 
 ## ☕ Get in touch
 - LinkedIn - [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/)
