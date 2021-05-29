@@ -6,10 +6,10 @@ My name is Korrawich Khosripetch
 - Back-end development using **NestJS, Flask**
 - Mobile application development using **React Native**
 
-![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=42b883&labelColor=555555)
-![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=42b883&labelColor=555555)
-![](https://img.shields.io/badge/-Coffee-informational?style=flat&logo=buy%20me%20a%20coffee&logoColor=white&color=42b883&labelColor=555555)
-![](https://img.shields.io/badge/-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=42b883&labelColor=555555)
+![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=28e09e&labelColor=555555)
+![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=28e09e&labelColor=555555)
+![](https://img.shields.io/badge/-Coffee-informational?style=flat&logo=buy%20me%20a%20coffee&logoColor=white&color=28e09e&labelColor=555555)
+![](https://img.shields.io/badge/-Mapbox-informational?style=flat&logo=mapbox&logoColor=white&color=28e09e&labelColor=555555)
 
 ## 📈 Github Stats
 
