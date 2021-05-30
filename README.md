@@ -17,8 +17,6 @@ My name is Korrawich Khosripetch
 <!-- 
 ![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=4&custom_title=Coding%20Stats,%20weekly&theme=vue&border_radius=28&bg_color=100,ffffff,fcfaff)
  -->
-## ☕ Get in touch
-- LinkedIn - [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/)
 
 <!--
 **knwch/knwch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
