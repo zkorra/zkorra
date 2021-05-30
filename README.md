@@ -13,7 +13,7 @@ My name is Korrawich Khosripetch
 
 ## 📈 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&title_color=22c98d&text_color=000000&border_radius=22&bg_color=80,FFFFFF,F7FFFC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knwch&layout=compact&title_color=22c98d&text_color=000000&border_color=EBEDEF&border_radius=22&bg_color=80,FFFFFF,F7FFFC)
 <!-- 
 ![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=4&custom_title=Coding%20Stats,%20weekly&theme=vue&border_radius=28&bg_color=100,ffffff,fcfaff)
  -->
