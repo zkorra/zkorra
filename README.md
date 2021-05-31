@@ -10,7 +10,7 @@
 
 > /กรวิชญ์ โคศรีเพชร/
 
-I'm a Coder in planet earth who loves making interesting things. Currently, I'm into smart contract thing because of its decentralization.
+I'm a Coder in planet earth who loves making interesting things. And currently, I'm into smart contract thing because of its decentralization.
 
 
 ### 📫 Get in touch:
