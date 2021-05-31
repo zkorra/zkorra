@@ -1,4 +1,17 @@
-## Hello there 👋
+### Korrawich Khosripetch
+
+> /กรวิชญ์ โคศรีเพชร/
+
+I'm a Coder in planet earth who loves making interesting things. Currently, I'm into smart contract thing because of its decentralization.
+
+
+### 📫 Get in touch:
+
+- Website: [knwch.github.io](https://knwch.github.io/) (working on it)
+- Linkedin: [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/)
+- Email: [korrawich.kho@gmail.com](mailto:korrawich.kho@gmail.com)
+
+<!-- ## Hello there 👋
 My name is Korrawich Khosripetch
 
 ## 🔧 Technologies & Tools
@@ -17,18 +30,3 @@ My name is Korrawich Khosripetch
 <!-- 
 ![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=4&custom_title=Coding%20Stats,%20weekly&theme=vue&border_radius=28&bg_color=100,ffffff,fcfaff)
  -->
-
-<!--
-**knwch/knwch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
