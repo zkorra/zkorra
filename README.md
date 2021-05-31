@@ -1,4 +1,4 @@
-<pre style="color:red !important">
+<pre>
   ______
  /\_____\
 /\ \_____\
