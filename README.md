@@ -8,7 +8,7 @@ I'm a Coder in planet earth who loves making interesting things. Currently, I'm 
 ### 📫 Get in touch:
 
 - Website: [knwch.github.io](https://knwch.github.io/) (working on it)
-- Linkedin: [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/)
+- LinkedIn: [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/)
 - Email: [korrawich.kho@gmail.com](mailto:korrawich.kho@gmail.com)
 
 <!-- ## Hello there 👋
