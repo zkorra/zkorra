@@ -8,7 +8,7 @@
 
 ### Korrawich Khosripetch
 
-> /กรวิชญ์ โคศรีเพชร/
+> /กรวิชญ์ โคศรีเพชร/ 
 
 I'm a *Developer* on planet earth who loves making interesting things. And currently, I'm into smart contract thing because of its decentralization and seem very cool.
 
