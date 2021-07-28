@@ -22,7 +22,7 @@ I'm a *Developer* on planet earth who loves making interesting things. And curre
 <details>
   <summary>sneak peek my coding stats :eyes:</summary>
   
-  ![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=5&custom_title=Coding%20stats,%20weekly&title_color=FF5D1D&text_color=000000&border_color=EBEDEF&border_radius=22&bg_color=75,FFFFFF,FFF8F5)
+  ![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=5&custom_title=Coding%20stats,%20weekly&title_color=FF5D1D&text_color=000000&border_color=EBEDEF&border_radius=22&bg_color=75,FFFFFF,FFFAF8)
 </details>
 
 <!-- ## Hello there 👋
