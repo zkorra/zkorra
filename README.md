@@ -15,7 +15,6 @@ I'm a *developer* on planet earth who loves making interesting things. And curre
 
 ### :coffee: Get in touch:
 - Website: [knwch.github.io](https://knwch.github.io/)
-<!-- - LinkedIn: [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/) -->
 - Email: [korrawich.kho@gmail.com](mailto:korrawich.kho@gmail.com)
 
 
@@ -24,6 +23,8 @@ I'm a *developer* on planet earth who loves making interesting things. And curre
   
   ![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=knwch&layout=compact&langs_count=5&custom_title=Coding%20stats,%20weekly&title_color=5F5AD4&text_color=000000&border_color=EBEDEF&border_radius=22&bg_color=75,FFFFFF,F7F7FF)
 </details>
+
+<!-- - LinkedIn: [Korrawich Khosripetch](https://www.linkedin.com/in/knwch/) -->
 
 <!-- ## Hello there 👋
 My name is Korrawich Khosripetch
