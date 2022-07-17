@@ -10,7 +10,7 @@
 
 > /กรวิชญ์ โคศรีเพชร/ 
 
-I'm a homosepian who can code. I love building stuff.
+I'm a homosepian who can code. I love building stuff with creative ideas.
 
 
 ### :coffee: Get in touch:
