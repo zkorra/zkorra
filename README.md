@@ -10,7 +10,7 @@
 
 > /กรวิชญ์ โคศรีเพชร/ 
 
-I'm a Homosapien who can code. Loving building cooling stuff with creative ideas. More comfortable working with front-end.
+I'm a developer who has more comfortable working with front-end. Loving building stuff with ~~weird~~ ideas. Enthusiastic about user experience and decentralized application development.
 
 <details>
   <summary>sneak peek my coding stats :eyes:</summary>
