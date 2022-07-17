@@ -10,7 +10,7 @@
 
 > /กรวิชญ์ โคศรีเพชร/ 
 
-I'm a *developer* on planet earth who loves making interesting things.
+I'm a homosepian who can code. I love building stuff.
 
 
 ### :coffee: Get in touch:
