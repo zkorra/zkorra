@@ -10,7 +10,7 @@
 
 > /กรวิชญ์ โคศรีเพชร/ 
 
-I'm a developer who has more comfortable working with front-end. Loving building stuff with ~~weird~~ ideas.
+I'm a developer who has more comfortable working with front-end. Loving building stuff with ***** ideas.
 <br/>
 Enthusiastic about user experience and decentralized application development.
 
