@@ -10,12 +10,10 @@
 
 > /กรวิชญ์ โคศรีเพชร/ 
 
-I'm a developer who has more comfortable working with front-end. Loving building stuff with ***** ideas.
-<br/>
-Enthusiastic about user experience and decentralized application development.
+I'm a junior developer, who love learning and building stuff. I have a passion to bring a wonderful experience for people through technology.
 
 <details>
-  <summary>sneak peek my coding stats :eyes:</summary>
+  <summary>sneak peek my most used languages :eyes:</summary>
   
-  ![knwch's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zkorra&layout=compact&langs_count=5&custom_title=Coding%20stats,%20weekly&title_color=ff5b1d&text_color=000000&border_color=ebedef&border_radius=14&bg_color=75,ffffff,fff7f7)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkorra&hide=jupyter%20notebook,ejs&layout=compact&custom_title=Most%20coded%20languages%20:\)&title_color=ff5b1d&text_color=000000&border_color=ebedef&border_radius=14&bg_color=75,ffffff,fff7f7)
 </details>
