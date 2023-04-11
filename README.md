@@ -10,7 +10,7 @@
 
 > /กรวิชญ์ โคศรีเพชร/ 
 
-I'm a junior developer, who love learning and building stuff. I have a passion to bring a wonderful experience for people through technology.
+I'm a developer with experience working in both frontend and backend development. Have a background in leading a small web3-based project.
 
 <details>
   <summary>sneak peek my most used languages :eyes:</summary>
