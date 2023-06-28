@@ -19,3 +19,4 @@ I'm a developer with experience working in both frontend and backend development
 </details>
 
 [zkorra.github.io](https://zkorra.github.io)
+
