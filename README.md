@@ -12,7 +12,7 @@
 
 I'm a developer with experience working in both frontend and backend development. Have a background in leading a small web3-based project.
 
-[![zkorra's top langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=zkorra&hide=jupyter%20notebook&layout=compact&card_width=320&custom_title=Most%20used%20languages&title_color=24292f&text_color=24292f&border_color=f6f8fa&border_radius=6&bg_color=f6f8fa#gh-light-mode-only)](https://github.com/zkorra#gh-light-mode-only)
+[![zkorra's top langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=zkorra&hide=jupyter%20notebook&layout=compact&card_width=320&custom_title=Most%20used%20languages&title_color=1f2328&text_color=1f2328&border_color=d0d7de&border_radius=6&bg_color=00000000#gh-light-mode-only)](https://github.com/zkorra#gh-light-mode-only)
 [![zkorra's top langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=zkorra&hide=jupyter%20notebook&layout=compact&card_width=320&custom_title=Most%20used%20languages&title_color=e6edf3&text_color=e6edf3&border_color=161b22&border_radius=6&bg_color=161b22#gh-dark-mode-only)](https://github.com/zkorra#gh-dark-mode-only)
 
 [zkorra.github.io](https://zkorra.github.io)
