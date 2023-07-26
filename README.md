@@ -6,7 +6,7 @@
  \/__/__/
 </pre>
 
-### Korrawich Khosripetch
+### korrawich khosripetch
 
 > /กรวิชญ์ โคศรีเพชร/ 
 
